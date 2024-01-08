@@ -1,2 +1,2 @@
 # delta-demosalonee
-Demo for GIT and Git Hub Class
+This is a Demo for GIT and Git Hub Class.
